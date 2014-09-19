@@ -1,9 +1,7 @@
 # Beebeeto-framework #
 
 ```
-#!python
-
-beebeeto_framework = {
+bb2-framework-info = {
     team : 'FF0000 TeAm',
     blog : 'http://www.hackersoul.com',
     site : 'http://www.beebeeto.com',
