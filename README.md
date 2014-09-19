@@ -15,6 +15,7 @@ Beebeeto名字源于蜜蜂（Bee），平台中的分享者我们称为养蜂人
 对了，出于方便你也可以把这个平台叫做：BB2。
 
 ## Using Beebeeto-framework ##
+* [http://www.beebeeto.com/](http://www.beebeeto.com/)
 * [http://docs.beebeeto.com/](http://docs.beebeeto.com/)
 
 
