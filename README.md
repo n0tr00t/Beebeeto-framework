@@ -22,4 +22,4 @@ Beebeeto名字源于蜜蜂（Bee），平台中的分享者我们称为养蜂人
 ## Contact us ##
 * Email  : root[at]beebeeto.com
 * Weibo  : [@Beebeeto](http://weibo.com/beebeeto)
-* Twitter: [@Beebeeto](http://twitter.com/beebeeto)
+* Twitter: [@Beebeeto_com](http://twitter.com/beebeeto_com)
