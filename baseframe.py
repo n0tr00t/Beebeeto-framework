@@ -79,11 +79,11 @@ class BaseFrame(object):
                                     help='run poc in verify mode.')
         self.base_parser.add_option('-e', '--exploit',
                                     action='store_false', dest='verify',
-                                    help='run poc in verify mode.')
+                                    help='run poc in exploit mode.')
         self.base_parser.add_option('--verbose', action='store_true', dest='verbose',
                                     default=False, help='print verbose debug information.')
-        self.base_parser.add_option('--quite', action='store_false', dest='verbose',
-                                    help='print verbose debug information.')
+        self.base_parser.add_option('--quite', action='store_false', dest='quite',
+                                    help='suppress all normal output.')
         self.base_parser.add_option('--info', action='callback', callback=self.__cb_print_poc_info,
                                     help='print poc information.')
 
