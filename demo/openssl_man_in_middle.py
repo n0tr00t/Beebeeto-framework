@@ -21,9 +21,9 @@ class MyPoc(BaseFrame):
     poc_info = {
         # poc相关信息
         'poc': {
-            'id': 'poc-2014-0001',  # 由Beebeeto官方编辑
+            'id': 'poc-2014-0014',  # 由Beebeeto官方编辑
             'name': None,  # 名称
-            'author': 'dog2',  # 作者
+            'author': 'anonymous',  # 作者
             'create_date': '2014-07-16',  # 编写日期
         },
         # 协议相关信息
