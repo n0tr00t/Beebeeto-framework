@@ -1,0 +1,200 @@
+{"options": {"verify": true, "target": "http://www.il520.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.3pianfang.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.5168czj.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.tf-jx.net", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.cn0314.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.xmb55.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.power-in-china.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.oboce.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.kaixinlin.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.jm680.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://51kxly.5d6d.net", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://babimom.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.gs090.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.wpqihuo.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.zspts.com", "verbose": false}, "success": false, "poc_ret": {}}
+{"options": {"verify": true, "target": "http://www.3d521.net", "verbose": false}, "success": false, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://yuntxt.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://d.zjapk.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.7kky.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.baodaogf.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.bdjrsy.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.skin8.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.986net.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.xjhuitian.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.tv2168.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.887374.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.dizhenw.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.yuren8.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.jmpacks.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.hyushan.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.ygmup.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.miyiming.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.aixiu.cc", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://chengdu.banyou123.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.gn797.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://shenjunlin.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.qingsonglicai.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.gycwjx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.markaudio.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.aijiao5.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.gdkingdee.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.mkgj.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.sendrc.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.fishing520.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.mayladys.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.crewcn.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.guanzhuangxian.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.53jianzhi.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.51haodeng.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.jybhy.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.dawuhan.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.yw11.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.hrzj.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://rikony.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.ai5tv.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10061, 'No connection could be made because the target machine actively refused it.'))", "options": {"verify": true, "target": "http://www.dv456.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.wlkst.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.szbs120.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.baite66.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cfflx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.china-bidding.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cchdylqx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.goodhuida.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.chinaenbon.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.myshow365.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.nchtsj.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.yantaohua.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.tata580.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.168qqw.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.kszc.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://xyxxdcrzty.sinaapp.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.0000y.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.londonhotelescorts.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.goldenpegasus.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.peogau.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.iet.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.lszhjc.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xuekangyiyuan.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.tshhht.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.redccc.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xiaketang.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.chinajp1688.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.uuimm.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.2008php.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.gxqq90.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.banzhaozhuce.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.jzjxfj.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.kfeng.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.hebeirnd.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.love-jing.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.kkk528.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.zkmgy.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.yujiabbs.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.ayashe.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://tuan.jiumaijiu.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.gssydz.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.cheapbrandtrade.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.scaffoldscaffolding.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.cnhmu.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://wwwhrliu828.gotoip55.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.126zsw.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.qd-shijie.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.envsh.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.qooqooled.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.youxia5.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.lwjn120.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.zb-hyundai.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.99kt.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.lsxn.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.0566bx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.iumeili.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.zzlbjq.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.jxw.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://ask.zaojiao.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.lssslsss.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.xinqilu.org", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.yongshan8.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10053, 'An established connection was aborted by the software in your host machine'))", "options": {"verify": true, "target": "http://www.tz51.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://20121234.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.455xcyy.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://jiuyangla.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.huabaike.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.pfb411.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.baipaopao.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cards-mart.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.fjzprx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.huangwei.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.mo60.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.endxp.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://tujin.04wm.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.agems.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.iaichao.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.meiweijie.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.jpddhl.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.qltxt.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.hlwtm.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.chuangye.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xuehi8.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.hdbbs.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.shhengfengwx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.3dkk.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.tianming360.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.qqsucai.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.51xindai.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.fengshifjx.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.hao7hao7.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cnxinan.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.bybycd.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.oeafoods.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://80hman.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.studiesandcareers.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.sh-familyday.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.coffeemachinecn.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.juji123.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.kwuyy.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.jiudp.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', gaierror(11004, 'getaddrinfo failed'))", "options": {"verify": true, "target": "http://www.fajue.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.flxzyz.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.telbj.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.baikart.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.241my.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xuantan.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cqbxhb.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xh3306.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.chinaopple.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://826436.134209.20la.com.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.btdou.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.zzhaoyuan.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.znyun.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.wxjsp.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.wikeun.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.mfsjgw.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.37med.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.doudoubb.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cqbcy.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.jwqzsm.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.cssysoft.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.an-com.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.sy-ol.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.8bu.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://nc.klxuexi.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.yijungj.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://fxsol.waihuistar.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.comeqmachinery.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.bdrenliu.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.bigpian.cn", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.havehome.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.rjfk.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.zyxhs.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.820ys.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.eyuxing.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.100-50.org", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.xinyi123.net", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.chmseo.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "argument of type 'NoneType' is not iterable", "options": {"verify": true, "target": "http://www.yumeiduotrans.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.shihuishuo.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.buytoyou.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.kantieba.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.zuoanhongcha.com", "verbose": false}, "success": null, "poc_ret": {}}
+{"exception": "('Connection aborted.', error(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.'))", "options": {"verify": true, "target": "http://www.redqting.com", "verbose": false}, "success": null, "poc_ret": {}}
