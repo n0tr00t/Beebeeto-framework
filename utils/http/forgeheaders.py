@@ -3,6 +3,7 @@
 # windows2000&evi1m0&ff0000team
 
 from random import randint
+from copy import deepcopy
 
 
 class BaseUserAgent(object):
@@ -88,16 +89,17 @@ class Android(BaseUserAgent):
 
 class ForgeHeaders(object):
     platforms = ['Win', 'IOS', 'Android', 'Linux', 'MacOS']
-    headers = {
+    _headers = {
         'Accept': '*/*',
         'Cache-Control': 'max-age=0',
         'Connection': 'keep-alive',
         'Referer':'http://www.google.com',
     }
 
-    def __init__(self):
-        platform = self.platforms[randint(0, len(self.platforms) - 1)]
+    def __init__(self, platform=None):
+        platform = platform or self.platforms[randint(0, len(self.platforms) - 1)]
         broswer, user_agent_details = eval('%s().randomly_get()' % platform)
+        self.headers = deepcopy(self._headers)
         self.headers.setdefault('User-Agent', user_agent_details)
 
     def get_headers(self):
@@ -105,6 +107,6 @@ class ForgeHeaders(object):
 
 
 if __name__ == '__main__':
-    print ForgeHeaders().headers
+    print ForgeHeaders(platform='Win').headers
     print
     print ForgeHeaders().get_headers()
