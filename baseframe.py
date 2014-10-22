@@ -106,7 +106,7 @@ class BaseFrame(object):
         options['target'] = self.__normalize_target(options['target'])
         args = {
             'options': options,
-            'success': None,
+            'success': False,
             'poc_ret': {},
         }
         result = {}
