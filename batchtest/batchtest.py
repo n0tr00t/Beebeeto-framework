@@ -49,7 +49,7 @@ class BatchTest(object):
 
     def cbSaveResult(self, request, result):
         self.finished_num += 1
-        print result
+        print '%d : %s' % (self.err_num+self.finished_num, str(result))
         if result['success']:
             self.success_num += 1
         self.result_fobj.write(json.dumps(result) + '\n')
