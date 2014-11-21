@@ -63,4 +63,5 @@ def split_file_by_line(in_file, split_num, out_dir='.', out_prefix=None):
         index = index if index < split_num else (split_num - 1)
         out_file_objs[index].write(each_line)
         cur_line_num += 1
+
     return out_files
