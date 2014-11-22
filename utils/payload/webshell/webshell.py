@@ -32,10 +32,7 @@ class Webshell:
     def check(self, url):
         try:
             content = requests.post(url, data=self._check_data, timeout=10).content
-            if self._keyword in content:
-                return True
-            else:
-                return False
+            return self._keyword in content:
         except requests.Timeout:
             return False
 
