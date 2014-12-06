@@ -77,13 +77,13 @@ class BatchTest(object):
                     func_args['options']['target'] = seed.strip()
                 yield deepcopy(func_args)
 
-        #arg_iter = [__setTarget(seed.strip()) for seed in self.seed_iter]
         requests = threadpool.makeRequests(callable_=self.func2run,
                                            args_list = argsGenerator(),
                                            callback=self.cbSaveResult,
                                            exc_callback=self.cbHandleErr)
         [self.tp.putRequest(req) for req in requests]
         self.tp.wait()
+        self.tp.dismissWorkers(100, do_join=True)
         return self.total_num, self.finished_num, self.err_num
 
 
