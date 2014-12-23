@@ -43,5 +43,5 @@ class JspVerify(VerifyShell):
                '  d.delete();\n' \
                '  }}\n' \
                '%>\n' \
-               '<% out.println("202cTEST4b70".replace("TEST","b962ac59075b964b07152d23");%>'
+               '<% out.println("595bb9ce8726b4b55f538d3ca0ddfd76");%>'
     _keyword = '202cb962ac59075b964b07152d234b70'
