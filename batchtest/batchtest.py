@@ -35,7 +35,7 @@ class BatchTest(object):
 
     def __init__(self, seed_file, func2run, options=None,
                  result_file='result.txt',
-                 thread_num=100, vervose=True):
+                 thread_num=100, verbose=True):
         self.func2run = func2run
         self.options = options if options else self.default_options
         self.seed_iter = open(seed_file, 'rbU')
