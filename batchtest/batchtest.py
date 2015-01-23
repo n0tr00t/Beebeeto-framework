@@ -98,7 +98,7 @@ if __name__ == '__main__':
                    options=None,
                    result_file='result.txt',
                    thread_num=100,
-                   vervose=True)
+                   verbose=True)
     bt.batchTest(norm_target_func=normalize_url, https=False)
     print 'total number: %d, finished number: %d, success number: %d, error number: %d'\
           % (bt.total_num, bt.finished_num, bt.success_num, bt.err_num)
