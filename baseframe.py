@@ -93,10 +93,11 @@ class BaseFrame(object):
         pprint(self.poc_info, stream=None, indent=2, width=80, depth=None)
         sys.exit()
 
-    def __normalize_target(self, target):
-        if self.poc_info['protocol']['name'] == 'http':
+    @classmethod
+    def normalize_target(cls, target):
+        if cls.poc_info['protocol']['name'] == 'http':
             return http.normalize_url(target)
-        elif self.poc_info['protocol']['name'] == 'https':
+        elif cls.poc_info['protocol']['name'] == 'https':
             return http.normalize_url(target, https=True)
         else:
             return target
