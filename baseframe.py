@@ -104,7 +104,7 @@ class BaseFrame(object):
 
     def run(self, options=None, debug=False):
         options = self.options.__dict__ if self.run_in_shell else options
-        options['target'] = self.__normalize_target(options['target'])
+        options['target'] = self.normalize_target(options['target'])
         args = {
             'options': options,
             'success': False,
