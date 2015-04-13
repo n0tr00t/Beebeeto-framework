@@ -3,7 +3,7 @@
 
 """
 Site: http://www.beebeeto.com/
-Framework: https://github.com/ff0000team/Beebeeto-framework
+Framework: https://github.com/n0tr00t/Beebeeto-framework
 """
 
 import requests
