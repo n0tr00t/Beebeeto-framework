@@ -2,7 +2,7 @@
 
 ```
 bb2-framework-info = {
-    team : 'FF0000 TeAm',
+    team : 'n0tr00t security team',
     blog : 'http://www.hackersoul.com',
     site : 'http://www.beebeeto.com',
 }
