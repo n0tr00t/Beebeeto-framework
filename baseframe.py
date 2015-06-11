@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-# Author: Beebeeto.com
 # Create: 2014-07-15
-# Team: FF0000 TeAm <http://www.ff0000.cc>
+# Author: www.beebeeto.com
+# Team: n0tr00t security team
 
+import os
 import sys
 import traceback
 
@@ -34,7 +35,7 @@ class BaseFrame(object):
         'protocol': {
             'name': None,  # 'openssl' e.g.
             'port': None,  # must be int type, 443 e.g.
-            'layer3_protocol': ['tcp'],
+            'layer4_protocol': ['tcp'],
         },
         # to be edit by you
         'vul': {

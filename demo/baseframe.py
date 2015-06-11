@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-# Author: Beebeeto.com
 # Create: 2014-07-15
-# Team: FF0000 TeAm <http://www.ff0000.cc>
+# Author: www.beebeeto.com
+# Team: n0tr00t security team
 
+import os
 import sys
 import traceback
 
@@ -34,7 +35,7 @@ class BaseFrame(object):
         'protocol': {
             'name': None,  # 'openssl' e.g.
             'port': None,  # must be int type, 443 e.g.
-            'layer3_protocol': ['tcp'],
+            'layer4_protocol': ['tcp'],
         },
         # to be edit by you
         'vul': {
@@ -49,11 +50,10 @@ class BaseFrame(object):
 
     def __init__(self, run_in_shell=True):
         if run_in_shell:
-            self._parse_cmd()
+            self._init_parser()
         self.run_in_shell = run_in_shell
 
-
-    def _parse_cmd(self):
+    def _init_parser(self, do_parse=True):
         usage = 'usage: %prog [options] arg1 arg2'
         self.base_parser = OptionParser(usage=usage, description=BEEBEETO_STATEMENT)
         self.user_parser = OptionGroup(self.base_parser,
@@ -65,11 +65,12 @@ class BaseFrame(object):
         self.__init_base_parser()
         self._init_user_parser()
 
-        (self.options, self.args) = self.base_parser.parse_args()
-        if not self.options.target:
-            print '\n[*] No target input!\n'
-            self.base_parser.print_help()
-            sys.exit()
+        if do_parse:
+            (self.options, self.args) = self.base_parser.parse_args()
+            if not self.options.target:
+                print '\n[*] No target input!\n'
+                self.base_parser.print_help()
+                sys.exit()
 
     def __init_base_parser(self):
         self.base_parser.add_option('-t', '--target', action='store', dest='target',
