@@ -7,6 +7,7 @@
 
 import os
 import sys
+import json
 import traceback
 
 from pprint import pprint
@@ -91,7 +92,7 @@ class BaseFrame(object):
         pass
 
     def __cb_print_poc_info(self, option, opt, value, parser):
-        pprint(self.poc_info, stream=None, indent=2, width=80, depth=None)
+        print(json.dumps(self.poc_info, ensure_ascii=False, indent=2))
         sys.exit()
 
     @classmethod

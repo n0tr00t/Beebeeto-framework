@@ -7,10 +7,10 @@
 
 import os
 import sys
+import json
 import traceback
 
-import json
-
+from pprint import pprint
 from optparse import OptionParser, OptionGroup
 
 from utils import http
